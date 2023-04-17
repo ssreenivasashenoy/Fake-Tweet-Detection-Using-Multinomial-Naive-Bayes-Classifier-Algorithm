@@ -1,0 +1,14 @@
+<html>
+	<body>
+		<form>
+			<fieldset align="center">
+          			<legend>Prediction</legend>
+          				{% if prediction=='FAKE' %}
+					<h2 style="color:Red;">Prediction: <span class='danger'>Gotcha! This is a FAKE Tweet ...Beware!</span></h2>
+	  				{% elif prediction=='REAL' %}
+					<h2 style="color:Green;">Prediction: <span class='safe'>Great! This is a REAL Tweet article...Stay updated!</span></h2>
+	  				{% endif %}      
+        		</fieldset>
+		</form>
+	</body>
+</html>
