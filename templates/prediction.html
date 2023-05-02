@@ -1,14 +1,29 @@
-<html>
-	<body>
-		<form>
-			<fieldset align="center">
-          			<legend>Prediction</legend>
-          				{% if prediction=='FAKE' %}
-					<h2 style="color:Red;">Prediction: <span class='danger'>Gotcha! This is a FAKE Tweet ...Beware!</span></h2>
-	  				{% elif prediction=='REAL' %}
-					<h2 style="color:Green;">Prediction: <span class='safe'>Great! This is a REAL Tweet article...Stay updated!</span></h2>
-	  				{% endif %}      
-        		</fieldset>
-		</form>
-	</body>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<link rel="shortcut icon" href="{{ url_for('static', filename = 'img/favicon.jpeg') }}" type="image/x-icon">
+	<link rel="stylesheet" href="{{ url_for('static', filename = 'CSS/prediction.css') }}">
+	<title>Prediction Output</title>
+</head>
+<body>
+	<div class="output">
+		<h1 class="heading">Prediction Output</h1>
+	</div>
+	<div class="output-container">
+		{% if prediction=='FAKE' %}
+		<h1 class="fake">FAKE</h1>
+		<h2>This tweet is fake and should not be trusted...Beware!</h2>
+		<br><br>
+		<a href="{{ url_for('home') }}" class="goback">&lt; Go Back</a>
+		{% elif prediction=='REAL' %}
+		<h1 class="real">TRUE</h1>
+		<h2>Great! This tweet is real and can be trusted...Stay updated!</h2>
+		<br><br>
+		<a href="{{ url_for('home') }}" class="goback">&lt; Go Back</a>
+		{% endif %} 
+	</div>
+</body>
 </html>

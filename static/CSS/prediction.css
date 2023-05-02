@@ -1,0 +1,39 @@
+body{
+    background-image: url('../img/newdesign.png');
+    background-size: cover;
+    color: White;
+}
+
+.heading{
+    text-align: center;
+    background-color: #190428;
+    border-radius: 60px;
+    padding: 2%;
+    border: 1px solid white;
+}
+
+.output-container{
+    margin: auto;
+    padding: 6%;
+    text-align: center;
+    width: 40%;
+    border: 1px solid whitesmoke;
+    border-radius: 60px;
+    height: 50%;
+    background-color: #32084E;
+}
+
+.fake{
+    color: red;
+}
+
+.real{
+    color: green;
+}
+
+.goback{
+    color: rgb(18, 103, 231);
+    text-decoration: none;
+    font-style: italic;
+    font-size: 16px;
+}
