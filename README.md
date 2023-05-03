@@ -28,3 +28,10 @@ The following libraries are required to run the project:
 <img src="https://github.com/ssreenivasashenoy/Fake-Tweet-Detection-Using-Multinomial-Naive-Bayes-Classifier-Algorithm/blob/main/static/img/predictfake.jpeg" width="600" height="300">
 
 <img src="https://github.com/ssreenivasashenoy/Fake-Tweet-Detection-Using-Multinomial-Naive-Bayes-Classifier-Algorithm/blob/main/static/img/predicttrue.jpeg" width="600" height="300">
+
+## Team members
+
+- S Sreenivasa Shenoy [@ssreenivasashenoy](https://github.com/ssreenivasashenoy)
+- P Padmaprasad Shenoy [@ppadmaprasadshenoy](https://github.com/ppadmaprasadshenoy)
+- Subramanya A Shet [@believer-20](https://github.com/believer-20)
+- Suhas S Kamath [@suhas-kamath](https://github.com/suhas-kamath)
