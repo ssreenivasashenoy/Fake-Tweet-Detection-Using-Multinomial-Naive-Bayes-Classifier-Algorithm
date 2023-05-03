@@ -10,8 +10,8 @@ import pandas as pd
 import pickle
 
 app = Flask(__name__)
-model = pickle.load(open('pac.pkl', 'rb'))
-tfidf = pickle.load(open('tfidf_vectorizer.pkl','rb'))
+# model = pickle.load(open('pac.pkl', 'rb'))
+# tfidf = pickle.load(open('tfidf_vectorizer.pkl','rb'))
 
 @app.route('/')
 def home():
@@ -27,7 +27,7 @@ def predict():
 		#lowercase = ques.lower()
 		#print(lowercase)
 
-		dataframe = pd.read_csv('news.csv')
+		dataframe = pd.read_csv('true1234.csv')
 		dataframe.head()
 
 		# %%
