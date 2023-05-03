@@ -16,3 +16,13 @@ The following libraries are required to run the project:
 - pandas
 - numpy
 - matplotlib
+
+## Screenshots
+
+### Landing Page
+![Landing Page](https://github.com/ssreenivasashenoy/Fake-Tweet-Detection-Using-Multinomial-Naive-Bayes-Classifier-Algorithm/blob/main/static/img/landingpage.jpeg?raw=true)
+
+### Output Page
+![Output Fake](https://github.com/ssreenivasashenoy/Fake-Tweet-Detection-Using-Multinomial-Naive-Bayes-Classifier-Algorithm/blob/main/static/img/predictfake.jpeg?raw=true)
+
+![Output Real](https://github.com/ssreenivasashenoy/Fake-Tweet-Detection-Using-Multinomial-Naive-Bayes-Classifier-Algorithm/blob/main/static/img/predicttrue.jpeg?raw=true)
