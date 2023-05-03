@@ -1,4 +1,6 @@
-![Team Logo](https://github.com/ssreenivasashenoy/Fake-Tweet-Detection-Using-Multinomial-Naive-Bayes-Classifier-Algorithm/blob/main/static/img/TeamLogo.png?raw=true)
+<div align="center">
+    <img src="https://github.com/ssreenivasashenoy/Fake-Tweet-Detection-Using-Multinomial-Naive-Bayes-Classifier-Algorithm/blob/main/static/img/TeamLogo.png" width="200" height="200">
+</div>
 
 # Fake Tweet Detection Using Multinomial Naive Bayes Classifier Algorithm
 
@@ -20,9 +22,9 @@ The following libraries are required to run the project:
 ## Screenshots
 
 ### Landing Page
-![Landing Page](https://github.com/ssreenivasashenoy/Fake-Tweet-Detection-Using-Multinomial-Naive-Bayes-Classifier-Algorithm/blob/main/static/img/landingpage.jpeg?raw=true)
+<img src="https://github.com/ssreenivasashenoy/Fake-Tweet-Detection-Using-Multinomial-Naive-Bayes-Classifier-Algorithm/blob/main/static/img/landingpage.jpeg" width="600" height="300">
 
 ### Output Page
-![Output Fake](https://github.com/ssreenivasashenoy/Fake-Tweet-Detection-Using-Multinomial-Naive-Bayes-Classifier-Algorithm/blob/main/static/img/predictfake.jpeg?raw=true)
+<img src="https://github.com/ssreenivasashenoy/Fake-Tweet-Detection-Using-Multinomial-Naive-Bayes-Classifier-Algorithm/blob/main/static/img/predictfake.jpeg" width="600" height="300">
 
-![Output Real](https://github.com/ssreenivasashenoy/Fake-Tweet-Detection-Using-Multinomial-Naive-Bayes-Classifier-Algorithm/blob/main/static/img/predicttrue.jpeg?raw=true)
+<img src="https://github.com/ssreenivasashenoy/Fake-Tweet-Detection-Using-Multinomial-Naive-Bayes-Classifier-Algorithm/blob/main/static/img/predicttrue.jpeg" width="600" height="300">
