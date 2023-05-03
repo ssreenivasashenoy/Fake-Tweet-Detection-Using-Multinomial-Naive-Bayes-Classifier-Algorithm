@@ -17,8 +17,8 @@ from sklearn.pipeline import Pipeline
 """
 
 # %%
-fake = pd.read_csv("D:/Project22-23/Fake_Tweet/project/Fake.csv/fake1.csv", encoding= 'unicode_escape')
-true = pd.read_csv("D:/Project22-23/Fake_Tweet/project/True.csv/true1.csv", encoding= 'unicode_escape')
+fake = pd.read_csv("D:/Project22-23/Fake_Tweet/project/Fake.csv/Fake.csv", encoding= 'unicode_escape')
+true = pd.read_csv("D:/Project22-23/Fake_Tweet/project/True.csv/true12.csv", encoding= 'unicode_escape')
 
 # %%
 fake.shape
