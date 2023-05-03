@@ -8,8 +8,8 @@ import numpy as np
 """
 
 # %%
-df_fake = pd.read_csv("D:/Project22-23/Fake_Tweet/project/Fake.csv/Fake.csv", encoding= 'unicode_escape')
-df_true = pd.read_csv("D:/Project22-23/Fake_Tweet/project/True.csv/true12.csv", encoding= 'unicode_escape')
+df_fake = pd.read_csv("D:/FinalProject/project/Fake.csv/Fake.csv", encoding= 'unicode_escape')
+df_true = pd.read_csv("D:/FinalProject/project/True.csv/true12.csv", encoding= 'unicode_escape')
 
 # %%
 """
