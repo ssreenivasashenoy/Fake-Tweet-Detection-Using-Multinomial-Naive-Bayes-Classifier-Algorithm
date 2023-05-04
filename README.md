@@ -39,7 +39,7 @@ The Multinomial Naive Bayes (MNB) classifier algorithm is a probabilistic algori
 
 ## System Architecture Diagram
 
-<img src="https://github.com/ssreenivasashenoy/Fake-Tweet-Detection-Using-Multinomial-Naive-Bayes-Classifier-Algorithm/blob/main/Others/SystemArchitecture.png" width="600" height="300">
+<img src="https://github.com/ssreenivasashenoy/Fake-Tweet-Detection-Using-Multinomial-Naive-Bayes-Classifier-Algorithm/blob/main/Others/SystemArchitechture.png" width="600" height="300">
 
 
 ## Prerequisites
@@ -102,9 +102,11 @@ The performance of the model is evaluated using the accuracy, precision, recall,
 Fake news detection is an important problem in today's world, and machine learning can be used to automate the process. The Multinomial Naive Bayes Classifier Algorithm is a simple yet effective algorithm for this task.
 
 
-## Poster
+## Project Poster
 
-<img src="https://github.com/ssreenivasashenoy/Fake-Tweet-Detection-Using-Multinomial-Naive-Bayes-Classifier-Algorithm/blob/main/Others/ProjectPoster.png" width="300" height="600">
+<div align="center">
+<img src="https://github.com/ssreenivasashenoy/Fake-Tweet-Detection-Using-Multinomial-Naive-Bayes-Classifier-Algorithm/blob/main/Others/ProjectPoster.png" width="400" height="600">
+</div>
 
 
 ## Team members
