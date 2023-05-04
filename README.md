@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://github.com/ssreenivasashenoy/Fake-Tweet-Detection-Using-Multinomial-Naive-Bayes-Classifier-Algorithm/blob/main/static/img/TeamLogo.png" width="200" height="200">
+    <img src="https://github.com/ssreenivasashenoy/Fake-Tweet-Detection-Using-Multinomial-Naive-Bayes-Classifier-Algorithm/blob/main/Others/TeamLogo.png" width="200" height="200">
 </div>
 
 
@@ -76,15 +76,15 @@ To get started,
 ## Screenshots
 
 ### Landing Page
-<img src="https://github.com/ssreenivasashenoy/Fake-Tweet-Detection-Using-Multinomial-Naive-Bayes-Classifier-Algorithm/blob/main/static/img/landingpage.jpeg" width="600" height="300">
+<img src="https://github.com/ssreenivasashenoy/Fake-Tweet-Detection-Using-Multinomial-Naive-Bayes-Classifier-Algorithm/blob/main/Others/landingpage.jpeg" width="600" height="300">
 
 ### Output Page
 
 #### Fake
-<img src="https://github.com/ssreenivasashenoy/Fake-Tweet-Detection-Using-Multinomial-Naive-Bayes-Classifier-Algorithm/blob/main/static/img/predictfake.jpeg" width="600" height="300">
+<img src="https://github.com/ssreenivasashenoy/Fake-Tweet-Detection-Using-Multinomial-Naive-Bayes-Classifier-Algorithm/blob/main/Others/predictfake.jpeg" width="600" height="300">
 
 #### Real
-<img src="https://github.com/ssreenivasashenoy/Fake-Tweet-Detection-Using-Multinomial-Naive-Bayes-Classifier-Algorithm/blob/main/static/img/predicttrue.jpeg" width="600" height="300">
+<img src="https://github.com/ssreenivasashenoy/Fake-Tweet-Detection-Using-Multinomial-Naive-Bayes-Classifier-Algorithm/blob/main/Others/predicttrue.jpeg" width="600" height="300">
 
 
 ## Evaluation
