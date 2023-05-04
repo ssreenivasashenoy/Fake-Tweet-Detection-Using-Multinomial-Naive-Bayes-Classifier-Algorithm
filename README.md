@@ -37,6 +37,11 @@ After preprocessing and feature extraction, we can now train the Multinomial Nai
 The Multinomial Naive Bayes (MNB) classifier algorithm is a probabilistic algorithm used for classification problems. It is based on Bayes' theorem and assumes that the features are conditionally independent given the class label. The MNB algorithm is particularly well-suited for text classification tasks, such as fake tweet detection.
 
 
+## System Architecture Diagram
+
+<img src="https://github.com/ssreenivasashenoy/Fake-Tweet-Detection-Using-Multinomial-Naive-Bayes-Classifier-Algorithm/blob/main/Others/SystemArchitecture.png" width="600" height="300">
+
+
 ## Prerequisites
 
 The following libraries are required to run the project:
@@ -95,6 +100,11 @@ The performance of the model is evaluated using the accuracy, precision, recall,
 ## Conclusion
 
 Fake news detection is an important problem in today's world, and machine learning can be used to automate the process. The Multinomial Naive Bayes Classifier Algorithm is a simple yet effective algorithm for this task.
+
+
+## Poster
+
+<img src="https://github.com/ssreenivasashenoy/Fake-Tweet-Detection-Using-Multinomial-Naive-Bayes-Classifier-Algorithm/blob/main/Others/ProjectPoster.png" width="300" height="600">
 
 
 ## Team members
