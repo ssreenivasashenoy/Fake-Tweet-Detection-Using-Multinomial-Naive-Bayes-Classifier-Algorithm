@@ -91,6 +91,15 @@ To get started,
 #### Real
 <img src="https://github.com/ssreenivasashenoy/Fake-Tweet-Detection-Using-Multinomial-Naive-Bayes-Classifier-Algorithm/blob/main/Others/predicttrue.jpeg" width="600" height="300">
 
+### Graph Output
+<img src="https://github.com/ssreenivasashenoy/Fake-Tweet-Detection-Using-Multinomial-Naive-Bayes-Classifier-Algorithm/blob/main/Others/Unigram.jpeg" width="300" height="300">
+
+<img src="https://github.com/ssreenivasashenoy/Fake-Tweet-Detection-Using-Multinomial-Naive-Bayes-Classifier-Algorithm/blob/main/Others/UniAndBigram.jpeg" width="300" height="300">
+
+<img src="https://github.com/ssreenivasashenoy/Fake-Tweet-Detection-Using-Multinomial-Naive-Bayes-Classifier-Algorithm/blob/main/Others/truefake.jpeg" width="600" height="300">
+
+<img src="https://github.com/ssreenivasashenoy/Fake-Tweet-Detection-Using-Multinomial-Naive-Bayes-Classifier-Algorithm/blob/main/Others/subject.jpeg" width="600" height="300">
+
 
 ## Evaluation
 
