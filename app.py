@@ -29,7 +29,7 @@ def predict():														# Defines a function to handle the request
 		#lowercase = ques.lower()
 		#print(lowercase)
 
-		dataframe = pd.read_csv('true1234.csv')						# Load a CSV file into a pandas dataframe
+		dataframe = pd.read_csv('true1234.csv', encoding='utf-8')						# Load a CSV file into a pandas dataframe
 		dataframe.head()											# Display the first 5 rows of the DataFrame to quickly check that the data has been loaded correctly.
 
 		# %%
